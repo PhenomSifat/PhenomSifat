@@ -2,7 +2,7 @@
      HEADER
      ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A79DF,100:00D4FF&height=220&section=header&text=Tasfin%27s%20Workspace&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Android%20Developer%20%7C%20Founder%20of%20NextFlow%20Apps&descAlignY=56&descSize=17&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A79DF,100:00D4FF&height=220&section=header&text=Sifat%27s%20Workspace&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Android%20Developer%20%7C%20Founder%20of%20NextFlow%20Apps&descAlignY=56&descSize=17&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
      QUICK LINKS
      ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tasfin-hasan-sakb/" target="_blank">
+  <a href="https://www.linkedin.com/in/fayez-mahmud-sifat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://nextflow-apps.com" target="_blank">
@@ -29,7 +29,7 @@
 
 ---
 
-<h3 align="center">👋 Hi, I'm Tasfin</h3>
+<h3 align="center">👋 Hi, I'm Sifat</h3>
 
 <p align="center">
   <b>Computer Science Student</b> · <b>Founder of NextFlow Apps</b> · <b>Android Developer</b> · <b>AI/ML Enthusiast</b>
